@@ -1,0 +1,20 @@
+﻿  client.cpp
+C:\Users\sp6d7\source\repos\CatWorld\client\camera.h(40,25): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  (编译源文件“client.cpp”)
+  
+C:\Users\sp6d7\source\repos\CatWorld\client\camera.h(52,29): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  (编译源文件“client.cpp”)
+  
+C:\Users\sp6d7\source\repos\CatWorld\client\utill.h(39,85): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“client.cpp”)
+  
+C:\Users\sp6d7\source\repos\CatWorld\client\utill.h(39,57): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“client.cpp”)
+  
+C:\Users\sp6d7\source\repos\CatWorld\client\utill.h(86,12): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“client.cpp”)
+  
+C:\Users\sp6d7\source\repos\CatWorld\client\Animation.h(63,10): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“client.cpp”)
+  
+  client.vcxproj -> C:\Users\sp6d7\source\repos\CatWorld\x64\Debug\client.exe
